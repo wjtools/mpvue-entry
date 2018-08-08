@@ -1,7 +1,7 @@
 {
   "name": "mpvue-entry-fix",
-  "version": "1.4.8",
-  "description": "集中式页面配置，自动生成各页面的入口文件，优化目录结构，支持新增页面热更新",
+  "version": "1.4.9",
+  "description": "Fork 自 ZzMark/mpvue-entry 优化版，临时解决一些打包问题",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint --format node_modules/eslint-friendly-formatter --ext .js .",
