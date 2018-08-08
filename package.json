@@ -1,6 +1,6 @@
 {
-  "name": "mpvue-entry",
-  "version": "1.4.7",
+  "name": "mpvue-entry-fix",
+  "version": "1.4.8",
   "description": "集中式页面配置，自动生成各页面的入口文件，优化目录结构，支持新增页面热更新",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/F-loat/mpvue-entry.git"
+    "url": "git+https://github.com/wjtools/mpvue-entry.git"
   },
   "keywords": [
     "mpvue",
